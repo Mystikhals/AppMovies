@@ -1,0 +1,8 @@
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\bin\Debug\netstandard2.0\AppMovies.deps.json
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\bin\Debug\netstandard2.0\AppMovies.dll
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\obj\Debug\netstandard2.0\AppMovies.csprojAssemblyReference.cache
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\obj\Debug\netstandard2.0\View\App.xaml.g.cs
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\obj\Debug\netstandard2.0\AppMovies.csproj.CoreCompileInputs.cache
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\obj\Debug\netstandard2.0\AppMovies.AssemblyInfoInputs.cache
+C:\Users\siosl_2qrekg8\Documents\PPE\AppMovies\AppMovies\AppMovies\AppMovies\obj\Debug\netstandard2.0\AppMovies.AssemblyInfo.cs
