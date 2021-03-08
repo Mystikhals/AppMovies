@@ -1,0 +1,2 @@
+Liste des films : https://api.themoviedb.org/3/search/movie?api_key=0f1d0b73d25595e9806aede52220a269&query={{ à chercher  }}&language=fr-FR
+Details : https://api.themoviedb.org/3/movie/{{ Id du film }}?api_key=0f1d0b73d25595e9806aede52220a269&language=fr-FR
